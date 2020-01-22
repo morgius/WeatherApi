@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
               "version": "[2.2.2, )"
